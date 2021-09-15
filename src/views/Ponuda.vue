@@ -259,7 +259,7 @@ export default {
   components: { MyButton },
   data() {
     return {
-      pretraga: "",
+      pretraga: "bmw",
       auti: [],
       loading: false,
       page: 1,
