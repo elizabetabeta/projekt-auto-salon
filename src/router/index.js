@@ -1,8 +1,10 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Vuetify from 'vuetify/lib'
 
 Vue.use(VueRouter)
+Vue.use(Vuetify)
 
 const routes = [
   {
