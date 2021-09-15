@@ -10,7 +10,7 @@
 
           <v-spacer></v-spacer>
 
-          <img src=".\assets\logo.png" id="logo" />
+          <img src="https://www.pngall.com/wp-content/uploads/2017/05/Concept-Car-Free-Download-PNG.png" id="logo" />
           &emsp;
         </v-tabs>
       </v-app-bar>
@@ -94,7 +94,8 @@ main {
   background: linear-gradient(to bottom, #6666ff 0%, #cc66ff 100%);
 }
 #logo {
-  padding-top: 10px;
+  padding-top: 30px;
+  height: 70px;
 }
 #ispod {
   background-color: #cc66ff;
